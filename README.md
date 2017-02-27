@@ -13,5 +13,5 @@
 * 第三方库：requests bs4
 
 ###使用说明
-1.下载脚本
+1.下载脚本   
     $git clone https://github.com/shinytang6/weiboSpider.git
