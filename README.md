@@ -18,5 +18,5 @@
     $ git clone https://github.com/shinytang6/weiboSpider.git
 运行上述命令，将本项目下载到当前目录；   
 2、用文本编辑器打开代码；   
-3、将"climberworm.py"文件中的“cookie”替换成爬虫微博的cookie，[点击这里](https://github.com/dataabc/weiboSpider)讲解了如何获取cookie；  
+3、将"climberworm.py"文件中的“cookie”替换成爬虫微博的cookie，[点击这里](https://github.com/dataabc/weiboSpider)讲解了如何获取cookie；    
 4、将"climberworm.py"文件中的user_id替换成想要爬取的微博的user_id；
